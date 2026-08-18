@@ -8,14 +8,13 @@ Hands-on Microsoft 365 and Azure security: the portal steps, the reasoning behin
 
 Where this is going: open, auditable security baselines for each Microsoft licence - every control mapped to the standard it satisfies, with the portal steps and PowerShell to apply it, free to read and fork. Not a black box you take on trust; a baseline you can check.
 
-### Start here
+### The site
 
-- Guides and blog: [www.cloud-architecture.co.uk](https://www.cloud-architecture.co.uk)
-- Frameworks and mappings: [www.cloud-architecture.co.uk/frameworks](https://www.cloud-architecture.co.uk/frameworks)
+The guides, blog and framework mappings are launching soon at [cloud-architecture.co.uk](https://www.cloud-architecture.co.uk). It's behind a holding page for now while I finish the first wave of content.
 
 ### Open source
 
-- [iac-cloud-architecture](https://github.com/Cloud-Architecture-UK/iac-cloud-architecture) - Terraform and PowerShell to stand up the Azure hosting for an Astro blog, the same way this site is built. Walkthrough: [How I Built This Site, Step by Step](https://www.cloud-architecture.co.uk/blog/why-this-site-exists/).
+- [iac-cloud-architecture](https://github.com/Cloud-Architecture-UK/iac-cloud-architecture) - Terraform and PowerShell to stand up the Azure hosting for an Astro blog, the same way this site is built.
 - [docs-standards](https://github.com/Cloud-Architecture-UK/docs-standards) - how the repositories here are named and run, in one place.
 
 I'm [Mark Hughes](https://github.com/markdhughes), a Microsoft-certified solutions consultant and cloud architect. Cloud Architecture is a solo project - I write, test and document everything here myself.
