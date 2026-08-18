@@ -2,6 +2,8 @@
 
 **Secure your Microsoft cloud, properly.**
 
+> 🚧 **Under construction.** An active work in progress: I'm adding guides and baselines and refining what's already here as I go, so expect it to keep changing.
+
 Hands-on Microsoft 365 and Azure security: the portal steps, the reasoning behind them, and the PowerShell to automate it, mapped to CIS, NIST, ISO 27001, NCSC and NIS2.
 
 Where this is going: open, auditable security baselines for each Microsoft licence - every control mapped to the standard it satisfies, with the portal steps and PowerShell to apply it, free to read and fork. Not a black box you take on trust; a baseline you can check.
