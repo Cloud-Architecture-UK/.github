@@ -25,7 +25,6 @@ The guides, blog and framework mappings are launching soon at [cloud-architectur
 
 Public now:
 
-- [iac-cloud-architecture](https://github.com/Cloud-Architecture-UK/iac-cloud-architecture): Terraform and PowerShell to stand up the Azure hosting for an Astro blog, the same way this site is built.
 - [docs-standards](https://github.com/Cloud-Architecture-UK/docs-standards): how the repositories here are named and run, in one place.
 
 The tenant toolkit is private while I finish and test it. Each pillar opens up as it's ready.
