@@ -16,7 +16,7 @@ It's launching soon at [cloud-architecture.co.uk](https://www.cloud-architecture
 
 ### What's coming
 
-- **In-depth guides.** The portal steps, the reasoning behind them, and the PowerShell to automate them.
+- **In-depth guides.** One topic covered start to finish, with the decisions, the steps and the code.
 - **Field notes.** Shorter write-ups of what I've hit in real tenants and subscriptions.
 - **Exam prep.** Study series for the Microsoft certifications, starting with MS-102, AZ-305 and AZ-104.
 - **Retirement radar.** A running list of Azure and Microsoft 365 retirements and changes.
