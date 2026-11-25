@@ -1,8 +1,8 @@
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./wordmark-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./wordmark-light.svg">
-    <img src="./wordmark-light.svg" alt="Cloud Architecture" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="./lockup-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./lockup-light.svg">
+    <img src="./lockup-light.svg" alt="Cloud Architecture" width="500">
   </picture>
 </p>
 
